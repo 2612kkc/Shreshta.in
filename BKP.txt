@@ -18,30 +18,11 @@
       <a href="contact.html">Contact</a>
     </nav>
   </header>
-  
- 
   <section class="hero">
-     <h2>Your Health, Our Priority</h2>
+  <img src="next.jpg.png">
+    <h2>Your Health, Our Priority</h2>
     <p>Providing quality healthcare with compassion and care.</p>
     <a href="contact.html" class="btn">Book Appointment</a>
-  </section>
-  
-     <section class="gallery">
-   <h2>Our Hospital Gallery</h2>
-    <div class="gallery-grid">
-
-
-
-
-<img src="images/1000209812.jpg" alt="Photo 5"> 
-<img src="images/1000209815.jpg" alt="Photo 4"> 
-<img src="images/1000209821.jpg" alt="Photo 6"> 
-<img src="images/1000209818.jpg" alt="Photo 3">
-<img src="images/1000209827.jpg" alt="Photo 2">
-<img src="images/1000209824.jpg" alt="Photo 1">
-
-
-    </div>
   </section>
 
   <section class="info">
